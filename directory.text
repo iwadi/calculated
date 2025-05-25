@@ -1,0 +1,7 @@
+If you don't see the folder node_modules.
+Follow these points.
+Write in terminal.
+
+1. npm install
+
+2. npm run dev
